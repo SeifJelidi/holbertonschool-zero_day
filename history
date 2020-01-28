@@ -1,0 +1,597 @@
+    1  PWD
+    2  pwd
+    3  sudo apt-get install git
+    4  $ sudo dnf install git-all
+    5  sudo dnf install git-all
+    6  git config --list --show-origin
+    7  git config --global user.name "Seif Jelidi"
+    8  git config --global user.email seifjelidi3@gmail.com
+    9  --global
+   10  git config --global core.editor emacs
+   11  git config --global core.editor "'C:/Program Files/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin"
+   12  clear
+   13  git config --list
+   14  git config --global core.editor emacs
+   15  apt get install emacs
+   16  sudo apt get install emacs
+   17  sudo apt -get install emacs
+   18  clear
+   19  sudo apt - get install emacs
+   20  sudo install emacs
+   21  clear
+   22  sudo apt-get install emacs
+   23  git config --global core.editor emacs
+   24  git config --list
+   25  git config user.name
+   26  git help <verb>
+   27  git <verb> --help
+   28  man git-<verb>
+   29  man git
+   30  git config
+   31  cd /home/user/my_project
+   32  clear
+   33  pwd
+   34  ls
+   35  ls -l
+   36  cd ..
+   37  pwd
+   38  cd ..
+   39  pwd
+   40  clear
+   41  cd /home/user/my_project
+   42  clear
+   43  ls
+   44  cd /vagrant
+   45  clear
+   46  ls
+   47  clear
+   48  cd .
+   49  cd ..
+   50  pwxd
+   51  pwd
+   52  ls
+   53  clear
+   54  ls
+   55  clear
+   56  cd /vagrant/
+   57  mkdir holbertonschool-zero_day
+   58  ls
+   59  cd /holbertonschool-zero_day
+   60  pwd
+   61  cd /vagrant/holbertonschool-zero_day
+   62  ls
+   63  git init
+   64  touch README.md 
+   65  Emacs README.md 
+   66  emacs README.md
+   67  ls
+   68  rm \#README.md# 
+   69  ls
+   70  less README.md
+   71  emacs README.md
+   72  less README.md
+   73  pwd
+   74  ls
+   75  cd /vagrant/
+   76  ls
+   77  cd /vagrant/holbertonschool-zero_da
+   78  cd /vagrant/holbertonschool-zero_day
+   79  ls
+   80  less README.md
+   81  clear
+   82  emacs 0-hello_ubuntu
+   83  git add .
+   84  git commit -m "Hello Ubuntu"
+   85  git push origin master
+   86  ls
+   87  rm ..
+   88  ls
+   89  rm 0-hello_ubuntu  README.md 
+   90  l
+   91  ls
+   92  rm -f 0x00-vagrant
+   93  rm -r 0x00-vagrant
+   94  ls
+   95  git add *
+   96  clear
+   97  git add *
+   98  git commit -m "fefe"
+   99  pwd
+  100  git init
+  101  git add .
+  102  git commit -m "holbertonschool-zero_day"
+  103  touch README.md
+  104  emacs README.md
+  105  less README.md
+  106  git add *
+  107  git commit "zeroday"
+  108  git commit "My first commit"
+  109  clear
+  110  ls$
+  111  ls
+  112  git add README.md
+  113  git commit -m "my first commit"
+  114  git push
+  115  echo "# holbertonschool-zero_day" >> README.md
+  116  git init
+  117  git add README.md
+  118  git commit -m "first commit"
+  119  git remote add origin git@github.com:SeifJelidi/holbertonschool-zero_day.git
+  120  git push -u origin master
+  121  ls
+  122  less README.md 
+  123  pwd
+  124  ls
+  125  cd /home/vagrant/holbertonschool-zero_day
+  126  cd home/vagrant/holbertonschool-zero_day
+  127  cd home/vagrant/holbertonschool-zero_day/
+  128  git init
+  129  git add .
+  130* 
+  131  pwd
+  132  cd holbertonschool/vagrant/
+  133  cd home/vagrant/holbertonschool-zero_day
+  134  pwd
+  135  ls
+  136  cd home/vagrant/holbertonschool-zero_day
+  137  cd /home/vagrant/holbertonschool-zero_day/
+  138  pwd
+  139  ls
+  140  ls -a
+  141  ls .git
+  142* ls 
+  143  ls .git
+  144  pwd
+  145  cd .git
+  146  ls -l
+  147  cd branches
+  148  ls
+  149  c
+  150  cd
+  151  ls
+  152  pwd
+  153  cd ..
+  154  ls
+  155  cd ..
+  156  ls
+  157  cd vagrant
+  158  ls
+  159  cd holbertonschool-zero_day
+  160  ls
+  161  ls -l
+  162  cd
+  163  pwd
+  164  ls
+  165  pwd
+  166  mkdir holbertonschool-zero_day
+  167  cd holbertonschool-zero_day
+  168  git init
+  169  git add .
+  170  ls
+  171  ls -a
+  172  git remote add origin https://github.com/SeifJelidi/holbertonschool-zero_day.git
+  173  git remote -v
+  174  ls
+  175  ls -a
+  176  git commit -m "My first commit"
+  177  git push origin master
+  178  git clone https://github.com/SeifJelidi/holbertonschool-zero_day
+  179  ls
+  180  cd holbertonschool-zero-day
+  181  cd holbertonschool-zero_day
+  182  ls
+  183  history
+  184  ls
+  185  less README.md
+  186  emacs README.md
+  187  git commit -m "My first commit"
+  188  git push origin master
+  189  git add README.md
+  190  git commit -m "My first commit"
+  191  git push origin master
+  192  git commit -m "My first commit"
+  193  git push origin master
+  194  git fetch origin master
+  195  git merge origin master
+  196  ls
+  197  git push origin master
+  198  git commit -m "My first commit"
+  199  emacs README.md
+  200  git reset --hard e57392f
+  201  ls
+  202  cd 0x00-vagrant
+  203  ls
+  204  touch README.md
+  205  ls
+  206  cd ..
+  207  ls
+  208  mv 0-hello_ubuntu 0x00-vagrant
+  209  cd 0x00-vagrant
+  210  ls
+  211  less 0-hello_ubuntu
+  212  emacs 0-hello_ubuntu
+  213  cd ..
+  214  ls
+  215  cd 0x00-vagrant
+  216  ls
+  217  rm 0-hello_ubuntu~
+  218  ls
+  219  pwd
+  220  ls
+  221  emacs 0-hello_ubuntu
+  222  git push origin master
+  223  git push origin master --force
+  224  ls
+  225  git commit -m "hello ubuntu"
+  226  git add -u
+  227  cd ..
+  228  ls
+  229  git add -u
+  230  git commit -a -m 'hello ubuntu'
+  231  git init
+  232  ls
+  233  pwd
+  234  cd ..
+  235  ls
+  236  pwd
+  237  ls
+  238  cd holbertonschool-zero_day
+  239  ls
+  240  ls -l
+  241  ls -a
+  242  cd ..
+  243  ls -a
+  244  history
+  245  ls
+  246  *
+  247  git commit -m "hello ubuntu"
+  248  ls
+  249  cd holbertonschool-zero_day
+  250  git commit -m "hello ubuntu"
+  251  ls
+  252  mv 0x00-vagrant ..
+  253  ls
+  254  mv README.md ..
+  255  cd ..
+  256  ls
+  257  rm -r holbertonschool-zero_day
+  258  ls
+  259  cd holbertonschool
+  260  cd holbertonschool-zero_day
+  261  ls
+  262  ls -a
+  263  rm .git
+  264  rm -r .git
+  265  ls
+  266  cd ..
+  267  ls
+  268  cd 0x00-vagrant
+  269  ls
+  270  cd ..
+  271  ls -a
+  272  git init
+  273  git add .
+  274  git commit -m "hello"
+  275  git remote add origin https://github.com/SeifJelidi/holbertonschool-zero_day
+  276  git remote -v
+  277  git push origin master
+  278  git fetch origin master
+  279  git merge origin master
+  280  ls
+  281  cd 0x00-vagrant
+  282  ls
+  283  cd ..
+  284  ls
+  285  pwd
+  286  git push origin master --force
+  287  ls
+  288  rm -r holbertonschool-zero_day
+  289  rm -f holbertonschool-zero_day
+  290  rm -rf holbertonschool-zero_day
+  291  ls
+  292  git push origin master --force
+  293  git commit -m "hello ubuntu"
+  294  git fetch origin master
+  295  git merge origin master
+  296  git push origin master --force
+  297  git commit -m "Remove duplicated directory"
+  298  git checkout master
+  299  ls
+  300  git rm -r holbertonschool-zero_day
+  301  git commit -m "Removed duplicated directory"
+  302  git push origin master
+  303  *
+  304  ls
+  305  mkdir 0x01-emacs
+  306  cd 0x01-emacs
+  307  touch 0-opening
+  308  ls
+  309  emacs 0-opening
+  310  ls
+  311  cd ..
+  312  ls
+  313  git commit -m "0x01-emacs"
+  314  history
+  315  git add 0x01-emacs
+  316  git commit -m "0x01-emacs"
+  317  ls
+  318  git push origin master
+  319  pwd
+  320  rm 0x01-emacs/0-opening~
+  321  cd 0x01-emacs
+  322  ls
+  323  git add 0x01-emacs
+  324  cd ..
+  325  git add 0x01-emacs
+  326  git commit -m "remove 0x01-emacs~"
+  327  git rm 0-opening~
+  328  git rm 0x01-emacs/0-opening~
+  329  git commit -m "remove 0x01-emacs~"
+  330  git push origin master
+  331  cd 0x01-emacs
+  332  ls
+  333  emacs 0-opening
+  334  ls
+  335  pwd
+  336  less 0-opening
+  337  emacs 0-opening
+  338  less 0-opening
+  339  rm #o-opening#
+  340  ls
+  341  ls -l
+  342  rm #o-opening#
+  343  rm -f #o-opening#
+  344  ls
+  345  rm -r #0-opening#
+  346  git commit -m "modifie opening"
+  347  cd ..
+  348  git commit -m "modifie opening"
+  349* 
+  350  git commit -m "modifie opening"
+  351  ls 0x01-emacs
+  352  git add 0x01-emacs/#0-opening#
+  353  git commit -m "modifie opening"
+  354  git push origin master
+  355  cd 0x01-emacs
+  356  ls
+  357  emacs 0-opening
+  358  cd ..
+  359  git add 0x01-emacs/0-opening
+  360  git commit -m "modifie opening0"
+  361  git push origin master
+  362  ls
+  363  cd 0x01-emacs
+  364  touch 1-saving
+  365  emacs 0-opening
+  366  emacs 1-saving
+  367  cd ..
+  368  git add 0x01-emacs/1-saving
+  369  git commit -m "1saving"
+  370  git push origin master
+  371  cd 0x01-emacs
+  372  touch 2-cutting
+  373  emacs 2-cutting
+  374  cd ..
+  375  git add 0x01-emacs/2-cutting
+  376  git commit -m "2cutting"
+  377  git push origin master
+  378  cd 0x01-emacs
+  379  emacs 2-cutting
+  380  cd ..
+  381  git add 0x01-emacs/2-cutting
+  382  git commit -m "2cutting1"
+  383  git push origin master
+  384  cd 0x01-emacs
+  385  touch 3-pasting
+  386  emacs 3-pasting
+  387  cd ..
+  388  git add 0x01-emacs/3-pasting
+  389  git commit -m "pasting"
+  390  git push origin master
+  391  cd 0x01-emacs
+  392  touch 4-searching
+  393  emacs 4-searching
+  394  cd ..
+  395  git add 0x01-emacs/4-searching
+  396  git commit -m "searching"
+  397  git push origin master
+  398  cd 0x01-emacs
+  399  touch 5-undoing
+  400  emacs 5-undoing
+  401  cd ..
+  402  git add 0x01-emacs/5-undoing
+  403  git commit -m "undoing"
+  404  git push origin master
+  405  cd 0x01-emacs
+  406  touch 6-quitting
+  407  emacs 6-quitting
+  408  cd ..
+  409  git add 0x01-emacs/6-quitting
+  410  git commit -m "quitting"
+  411  git push origin master
+  412  cd 0x01-emacs
+  413  ls
+  414  emacs 1-saving
+  415  cd ..
+  416  git add 0x01-emacs/1-saving
+  417  git commit -m "1-saving"
+  418  git push origin master
+  419  cd 0x01-emacs
+  420  emacs 2-cutting
+  421  cd ..
+  422  git add 0x01-emacs/2-cutting
+  423  git push origin master
+  424  git commit -m "22cutt"
+  425  cd 0x01-emacs
+  426  touch 100-tetris
+  427  emacs 100-tetris 
+  428  ls
+  429  cd ..
+  430  git add 0x01-emacs/100-tetris
+  431  git commit -m "tetris"
+  432  git push origin master
+  433  cd 0x01-emacs
+  434  touch 101-doctor
+  435  emacs 101-doctor
+  436  cd ..
+  437  git add 0x01-emacs/101-doctor
+  438  git commit -m "doctor"
+  439  git push origin master
+  440  cd 0x02-vi
+  441  mkdir 0x02-vi
+  442  cd 0x02-vi
+  443  ls
+  444  touch 0-inserting
+  445  vi 0-inserting
+  446  less 0-inserting
+  447  cd ..
+  448  git add 0x02-vi/0-inserting
+  449  git commit -m "inserting"
+  450  git push origin master
+  451  cd 0x02-vi
+  452  ls
+  453  cd ..
+  454  ls
+  455  cd 0x02-vi
+  456  touch 1-cutting
+  457  vi 1-cutting
+  458  cd ..
+  459  git add 0x02-vi/1-cutting
+  460  git commit -m "cutting"
+  461  git push origin master
+  462  cd 0x02-vi
+  463  touch 2-pasting
+  464  vi 2-pasting
+  465  cd ..
+  466  git add 0x02-vi/2-pasting
+  467  git commit -m "pasting"
+  468  git push origin master
+  469  cd 0x02-vi
+  470  touch 3-undoing
+  471  vi 3-undoing 
+  472  cd ..
+  473  git add 0x02-vi/3-undoing 
+  474  git commit -m "undoing"
+  475  git push origin master
+  476  cd 0x02-vi
+  477  touch 4-exiting
+  478  vi 4-exiting
+  479  cd ..
+  480  git add 0x02-vi/4-exiting
+  481  git commit -m "exiting"
+  482  git push origin master
+  483  cd 0x02-vi
+  484  touch 5-beginning_line
+  485  vi 5-beginning_line
+  486  cd ..
+  487  git add 0x02-vi/5-beginning_line
+  488  git commit -m "beginning"
+  489  git push origin master
+  490  cd 0x02-vi
+  491  touch 6-end_line
+  492  vi 6-end_line
+  493  cd ..
+  494  git add 0x02-vi/6-end_line
+  495  git commit -m "end"
+  496  git push origin master
+  497  cd 0x02-vi
+  498  touch 100-move_to-line
+  499  vi 100-move_to-line
+  500  cd ..
+  501  git add 0x02-vi/100-move_to-line
+  502  git commit -m "line"
+  503  git push origin master
+  504  cd 0x02-vi
+  505  touch 101-delete_line
+  506  vi 101-delete_line
+  507  cd ..
+  508  git add 0x02-vi/101-delete_line
+  509  git commit -m "linedfd"
+  510  git push origin master
+  511  pwd
+  512  mkdir 0x03-git
+  513  cd 0x03-git/
+  514  ls
+  515  touch README.md
+  516  cd ..
+  517  git add 0x03-git
+  518  git commit -m "0x03"
+  519  git push origin master
+  520  cd 0x03-git/
+  521  mkdir bash c js
+  522  ls
+  523  cd c
+  524  touch c_is_fun.c
+  525  cd ..
+  526  cd js
+  527  touch main.js
+  528  touch index.js
+  529  cd ..
+  530  cd bash
+  531  touch holberton
+  532  echo #!/bin/bash > holberton
+  533  less holberton
+  534  echo #!/bin/bash >holberton
+  535  echo #!/bin/bash>holberton
+  536  less holberton
+  537  echo '#!/bin/bash' >holberton
+  538  less holberton
+  539  echo 'echo "Holberton"' >> holberton
+  540  less holberton
+  541  touch school
+  542  echo '#!/bin/bash' > school
+  543  echo 'echo "School"' >> school
+  544  ls
+  545  less school
+  546  cd ..
+  547  git add 0x03-git
+  548  git commit -m "bashfrf"
+  549  git push origin master
+  550  git switch update_script
+  551  git checkout update_script
+  552  git checkout -b update_script
+  553  mkdir bash
+  554  ls
+  555  rm -r bash
+  556  git rm bash
+  557  cd 0x03-git
+  558  ls
+  559  cd bash
+  560  touch 98
+  561  ls
+  562  emacs holberton
+  563  cd ../..
+  564  git add 0x03-git
+  565  git commit -m "update"
+  566  git push origin master
+  567  git commit -m "My personal work"
+  568  git add 0x03-git
+  569  git commit -m "My personal work"
+  570  git add 0x03-git/bash
+  571  git commit -m "My personal work"
+  572  cd 0x03-git
+  573  cd bash
+  574  ls
+  575  emacs school
+  576  vi school
+  577  cd ../..
+  578  git add 0x03-git
+  579  git commit -m "My personal work"
+  580  git push origin update_script
+  581  git checkout master
+  582  cd 0x03-git/bash
+  583  ls
+  584  vi holberton
+  585  cd ../..
+  586  git add 0x03-git
+  587  cd 0x03-git
+  588  ls
+  589  rm -r js
+  590  cd ..
+  591  git rm 0x03-git/js
+  592  git rm -r 0x03-git/js
+  593  git commit -m "Hot fix"
+  594  git push origin master
+  595  history
+  596  touch history
+  597  history > history
